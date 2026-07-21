@@ -1,0 +1,4 @@
+interface:
+  display_name: "单元测试编写"
+  short_description: "为功能和缺陷编写高价值确定性回归测试"
+  default_prompt: "Use $write-unit-tests to add focused regression tests for this behavior."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "专家审查"
+  short_description: "从架构、安全、数据与可维护性角度审查改动"
+  default_prompt: "Use $expert-review to review this change for correctness and project-specific risks."

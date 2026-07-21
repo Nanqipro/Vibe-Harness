@@ -1,0 +1,4 @@
+interface:
+  display_name: "功能实现"
+  short_description: "按照变更档案和项目规则实现功能并同步测试"
+  default_prompt: "Use $implement-change to implement the approved change with matching tests."

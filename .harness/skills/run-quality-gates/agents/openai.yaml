@@ -1,0 +1,4 @@
+interface:
+  display_name: "质量门禁"
+  short_description: "运行专项、快速、接口与全量门禁并记录可信验证结论"
+  default_prompt: "Use $run-quality-gates to verify this change with the appropriate test layers."

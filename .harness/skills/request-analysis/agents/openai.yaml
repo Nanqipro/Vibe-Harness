@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求分析"
+  short_description: "分析需求边界、业务影响与技术风险并生成结构化变更档案"
+  default_prompt: "Use $request-analysis to analyze this requirement and create a structured change summary."

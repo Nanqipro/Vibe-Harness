@@ -1,0 +1,36 @@
+# Operating-system files
+.DS_Store
+**/.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editors and local agent state
+.idea/
+.vscode/
+.cursor/
+.claude/
+.codex/
+*.code-workspace
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Temporary editor and harness-local files
+*.bak
+*.swp
+.local/
